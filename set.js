@@ -23,5 +23,3 @@ const nomes = [
 
 const nomesSet = new Set(nomes)
 console.log(nomesSet)
-
-console.log(typeof Set)
